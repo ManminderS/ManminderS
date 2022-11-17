@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Manminder Singh aka Mav, Mani</h1>
-<h3 align="center">A passionate Cloud Engineer</h3>
+<h3 align="center">A passionate DevOps/Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manminders&label=Profile%20views&color=0e75b6&style=flat" alt="manminders" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manminders" alt="manminders" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working on polishing and learning **DevOps**
 
 - 🌱 I’m currently learning **Python, Kubernetes, Docker, Terraform**
 
 - 📝 I regularly write articles on [https://medium.com/@mani-rana](https://medium.com/@mani-rana)
 
-- 💬 Ask me about **Cloud**
+- 💬 Ask me about **DevOps/Cloud**
 
 - ⚡ Fun fact **I am shifting my career from HR >> IT**
 
