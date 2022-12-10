@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DevOps/Cloud**
 
-- ⚡ Fun fact **I am shifting my career from HR >> IT**
+- ⚡ Fun fact **I am a go-getter**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
