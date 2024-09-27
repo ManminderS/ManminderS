@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manminder Singh aka MAV</h1>
-<h3 align="center">A passionate DevOps/Cloud Engineer</h3>
+<h1 align="center">Hi 👋, I'm MAV</h1>
+<h3 align="center">A passionate Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manminders&label=Profile%20views&color=0e75b6&style=flat" alt="manminders" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on polishing and learning **DevOps**
 
-- 🌱 I’m currently learning **Python, Kubernetes, Docker, Terraform**
+- 🌱 I’m currently learning **Python*
 
 - 📝 I regularly write articles on [https://medium.com/@mani-rana](https://medium.com/@mani-rana)
 
