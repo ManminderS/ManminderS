@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python*
 
-- 📝 I regularly write articles on [https://medium.com/@mani-rana](https://mav-rana.medium.com/)
+- 📝 I regularly write articles on [//https://mav-rana.medium.com/)
 
 - 💬 Ask me about **DevOps/Cloud**
 
