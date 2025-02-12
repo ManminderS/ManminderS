@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m [Your Name]!
+# 👋 Hey there, I’m MAV SINGH!
 
 Welcome to my GitHub page! I'm an **IT enthusiast** with a passion for cloud technologies, cybersecurity, and software development. My journey has been all about continuous learning and growth—so join me as I dive deeper into code and tech!
 
